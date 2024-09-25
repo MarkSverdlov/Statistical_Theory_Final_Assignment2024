@@ -24,6 +24,10 @@ data, which is avaliable from Kaggle.
 1. Pre-Processed Data.csv - This file contains the data we analyze in
    all notebooks (except 'Exploration.ipynb'). It is created by
    processing the data from Kaggle using "Pre-Processing Data.ipynb".
+1. Statistical\_Theory\_\_\_Final\_Assignemnt\_Presentation.pdf - This
+   file contatins the presentation we presented in class.
+1. Statistical\_Theory\_\_\_Final\_Assignment.pdf - This file contains
+   the main text that summarizes the results.
 1. Initial Results.ipynb - This notebook contains the initial results we
    procured for the presentation.
 1. Results.ipynb - This notebook contains all the results and analyses
