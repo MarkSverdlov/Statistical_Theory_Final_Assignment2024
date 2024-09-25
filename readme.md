@@ -17,8 +17,6 @@ data, which is avaliable from Kaggle.
    download the original data from Kaggle, name it
    "games\_may2024\_cleaned.csv", and place it in the same folder as the
    notebook.
-1. Initial Results.ipynb - This notebook contains the initial results we
-   procured for the presentation.
 1. Pre-Processing Data.ipynb - This notebook contains all the code for
    pre-processing the original data from Kaggle. After its execution, it
    creates a new csv file called "Pre-Processed Data.csv" which we
@@ -26,10 +24,14 @@ data, which is avaliable from Kaggle.
 1. Pre-Processed Data.csv - This file contains the data we analyze in
    all notebooks (except 'Exploration.ipynb'). It is created by
    processing the data from Kaggle using "Pre-Processing Data.ipynb".
+1. Initial Results.ipynb - This notebook contains the initial results we
+   procured for the presentation.
 1. Results.ipynb - This notebook contains all the results and analyses
    we perpetrated for the main text.
 1. requirements.txt - This file contains the dependencies of the
    notebooks.
+1. AnswersAboutDataset.pdf - This file records a query and an answer we
+   got from the database creator.
 
 ## How to Use
 ### Install the Code Dependencies
